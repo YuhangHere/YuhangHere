@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ 我的工具 (My Tools)
+### 🛠️ Tools
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
