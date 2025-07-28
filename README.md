@@ -10,6 +10,8 @@
 
 ---
 
+### 🚀 About Me
+
 * 🔭 **当前重心：** 正在系统学习 Python，并夯实基础。
 * 🤔 **乐于交流：** 关于 Python 学习路上的心得与困惑。
 
@@ -40,11 +42,14 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight" alt="Yuhang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yuhang's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangHere&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuhangHere&label=Profile%20views&color=brightgreen&style=flat" alt="profile views"/>
+  <img alt="Learning Python" src="https://img.shields.io/badge/Learning-Python-green?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge">
 </p>
