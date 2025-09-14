@@ -42,8 +42,8 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight" width="35%" />
+  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="35%" />
+  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact" width="38%" />
 </div>
 
 ---
