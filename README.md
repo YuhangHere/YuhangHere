@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-three-alpha-61.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="35%" />
-  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact" width="38%" />
+  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact&exclude_repo=JingTuMail" width="38%" />
 </div>
 
 ---
