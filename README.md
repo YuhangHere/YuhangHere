@@ -12,8 +12,7 @@
 
 ### 🚀 About Me
 
-* 🔭 **当前重心：** 正在系统学习 Python，并夯实基础。
-* 🤔 **乐于交流：** 关于 Python 学习路上的心得与困惑。
+* 🔭 学业任务艰巨，偶尔做一些前端项目
 
 ---
 
@@ -42,8 +41,8 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="35%" />
-  <img src="https://github-readme-stats-three-alpha-61.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact&exclude_repo=JingTuMail" width="38%" />
+  <img height="130px" src="https://github-readme-stats-three-alpha-61.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats-three-alpha-61.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact&exclude_repo=JingTuMail"/>
 </div>
 
 ---
