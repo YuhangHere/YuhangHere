@@ -41,8 +41,8 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="130px" src="https://github-readme-stats-jingtu.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130px" src="https://github-readme-stats-jingtu.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact"/>
+  <img height="130px" src="https://github-readme-stats-weld-tau-91.vercel.app/api?username=YuhangHere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats-weld-tau-91.vercel.app/api/top-langs/?username=YuhangHere&theme=tokyonight&layout=compact"/>
 </div>
 
 ---
