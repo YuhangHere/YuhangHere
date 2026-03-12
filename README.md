@@ -4,16 +4,16 @@
 </div>
 
 <div align="center">
-你好，很高兴你来到这里。 <br>
-我是一名编程领域的学习者，对用代码创造价值充满向往。
+你好，很高兴你来到这里 <br>
+我专注于将优质的开源项目部署到服务器上运行
 </div>
 
 ---
 
 ### 🚀 About Me
 
-* 🔭 学业任务艰巨，偶尔做一些前端项目
-
+* 🔭 学业任务艰巨，偶尔做一些开发与配置需求。
+* 🌱 日常喜欢捣鼓 VPS、Docker 和网络配置，享受服务器跑满服务的成就感。
 ---
 
 ### 🛠️ Tools
@@ -22,11 +22,11 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
